@@ -1,6 +1,6 @@
 # TUGAS SISTEM OPERASI
 
-# 1.Boot Proses
+# Boot Proses
 ![Boot Proses drawio](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/f7d5aed6-2acd-4e28-8085-fa02fb3524ad)
 ## PENJELASAN
 ### Power On : Komputer dinyalakan.
