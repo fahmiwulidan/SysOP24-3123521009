@@ -28,15 +28,18 @@
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/5f4bf5ef-9d7d-460e-aae5-082a2c976d28)
 #### Output :
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/81ff89b7-6b5f-429d-92c4-011b24c84148)
+##
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/e79b2781-006f-40a7-8b34-9d4fe11d2795)
 #### Keterangan : Code tersebut merupakan contoh sederhana penggunaan fungsi fork() dalam bahasa pemrograman C untuk membuat proses anak. Proses anak yang dibuat akan menjalankan perintah ls menggunakan fungsi execlp(), sedangkan proses induk akan menunggu proses anak selesai dengan menggunakan fungsi wait(). Setelah proses anak selesai, proses induk akan mencetak pesan "Child Complete" sebelum program berakhir.
 ##
 ### 	Orphan
 #### Sourcode : 
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/fc02b6f1-a99b-486a-9a0c-5f65f134773a)
+##
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/5169dc91-d69d-40f2-b0ed-d73b2d0b84e2)
 #### Output :
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/8630fd85-8a7e-4510-894b-835ebff63a6b)
+##
 ![image](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/aa2e45d3-f045-45c3-ac4f-746940ac6a60)
 #### Keterangan : Code tersebut menciptakan proses anak dan proses induk. Proses induk mencetak informasi tentang dirinya, sedangkan proses anak menunggu selama 10 detik sebelum mencetak informasi tentang dirinya sendiri.
 ##
