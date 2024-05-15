@@ -12,3 +12,6 @@
 #### - Second : Penulis memiliki prioritas lebih tinggi, sehingga pembaca baru tidak bisa mulai membaca jika ada penulis yang menunggu.
 #### Contoh :
 #### Bayangkan sebuah database yang bisa dibaca oleh banyak pengguna sekaligus (pembaca), tetapi saat satu pengguna (penulis) ingin mengupdate data, semua pembaca harus berhenti sampai update selesai.
+
+## Kesimpulan :
+#### Kedua masalah ini menggambarkan tantangan dalam pemrograman paralel mengenai akses sumber daya bersama dan sinkronisasi. Solusi yang baik harus menghindari deadlock, starvation, dan race conditions untuk memastikan efisiensi dan integritas data.
