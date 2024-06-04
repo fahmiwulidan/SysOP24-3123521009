@@ -29,4 +29,4 @@
 
 -	Implementasi : Swapping dilakukan oleh sistem operasi.
 
-#### Jadi, Perbedaan utama antara paging dan swapping adalah cara di mana data atau proses dipindahkan antara memori fisik dan memori sekunder. Paging membagi proses ke dalam halaman-halaman kecil, sementara swapping memindahkan proses secara utuh antara memori fisik dan memori sekunder.
+### Jadi, Perbedaan utama antara paging dan swapping adalah cara di mana data atau proses dipindahkan antara memori fisik dan memori sekunder. Paging membagi proses ke dalam halaman-halaman kecil, sementara swapping memindahkan proses secara utuh antara memori fisik dan memori sekunder.
