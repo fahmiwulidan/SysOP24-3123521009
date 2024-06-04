@@ -1,4 +1,4 @@
-# Latihan Soal
+# Threads
 ##
 #### - Berikan tiga contoh pemrograman di mana multithreading memberikan kinerja yang lebih baik daripada solusi single-threaded.
 #### Jawaban:
