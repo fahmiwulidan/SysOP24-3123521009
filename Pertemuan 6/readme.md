@@ -1,4 +1,5 @@
-#### CISC (Complex Instruction Set Computing) dan RISC (Reduced Instruction Set Computing) adalah dua pendekatan yang berbeda dalam desain arsitektur prosesor komputer. Perbedaannya terletak pada cara instruksi-instruksi diproses oleh prosesor dan struktur internalnya:
+# Perbedaan CISC & RISC
+### CISC (Complex Instruction Set Computing) dan RISC (Reduced Instruction Set Computing) adalah dua pendekatan yang berbeda dalam desain arsitektur prosesor komputer. Perbedaannya terletak pada cara instruksi-instruksi diproses oleh prosesor dan struktur internalnya:
 
 ## •	CISC (Complex Instruction Set Computing) :
    - CISC mengutamakan instruksi yang kompleks dan kaya fitur. Instruksi-instruksi ini sering kali mampu melakukan operasi yang lebih kompleks dalam satu langkah.
@@ -11,4 +12,4 @@
    - RISC cenderung memiliki lebih sedikit instruksi, memperpendek siklus instruksi dan meningkatkan throughput instruksi.
    - Contoh arsitektur RISC termasuk ARM dan MIPS, yang banyak digunakan dalam perangkat mobile, embedded systems, dan kinerja tinggi.
 
-#### Perbandingan umum antara keduanya adalah bahwa CISC lebih kompleks dalam hal instruksi, sementara RISC lebih sederhana namun efisien dalam pelaksanaannya. Meskipun demikian, perbedaan antara keduanya telah kabur seiring berjalannya waktu karena pengembangan teknologi dan teknik desain baru.
+### Perbandingan umum antara keduanya adalah bahwa CISC lebih kompleks dalam hal instruksi, sementara RISC lebih sederhana namun efisien dalam pelaksanaannya. Meskipun demikian, perbedaan antara keduanya telah kabur seiring berjalannya waktu karena pengembangan teknologi dan teknik desain baru.
