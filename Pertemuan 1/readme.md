@@ -1,5 +1,4 @@
 TUGAS SISTEM OPERASI
-Sejarah Os
 
 Referensi : Topik 1 Sejarah OS
 1. Apa hubungan antara perangkat lunak aplikasi dan sistem operasi?
