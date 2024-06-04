@@ -1,4 +1,5 @@
-#### Paging & Swapping adalah dua teknik yang digunakan dalam manajemen memori pada sistem komputer, terutama pada sistem operasi. Meskipun keduanya digunakan untuk mengatur bagaimana data disimpan dan diakses dalam memori, ada perbedaan penting antara keduanya :
+## Perbedaan Paging & Swapping
+### Paging & Swapping adalah dua teknik yang digunakan dalam manajemen memori pada sistem komputer, terutama pada sistem operasi. Meskipun keduanya digunakan untuk mengatur bagaimana data disimpan dan diakses dalam memori, ada perbedaan penting antara keduanya :
 
 ## •	Paging :
 
