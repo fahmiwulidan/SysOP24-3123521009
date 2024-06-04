@@ -1,6 +1,5 @@
 # Proses Manajemen Review Questions 5.11
 #
-#
 # Soal!!
 #### ![Tugas Sistem Operasin_1](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/59551b0d-eb7c-47bf-90cb-03d1d2662e6a)
 #### ![Tugas Sistem Operasin_2](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/9f89ef45-4ef3-4469-a661-f1dd4cbf6aa0)
