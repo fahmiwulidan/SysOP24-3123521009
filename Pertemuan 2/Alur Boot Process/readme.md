@@ -1,7 +1,7 @@
 # TUGAS SISTEM OPERASI
 
 # Boot Proses
-![Boot Proses drawio](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/f7d5aed6-2acd-4e28-8085-fa02fb3524ad)
+![boot_process](https://github.com/fahmiwulidan/SysOP24-3123521009/assets/160559491/cbb1976a-bc04-4a99-8c65-cc587ec54432)
 ## PENJELASAN
 ### Power On : Komputer dinyalakan.
 ### Inisialisasi BIOS/UEFI : BIOS/UEFI menginisialisasi perangkat keras seperti CPU, memori, dan penyimpanan.
@@ -13,4 +13,3 @@
 ### Inisialisasi Ruang Pengguna : Proses init menginisialisasi layanan sistem dan proses lainnya.
 ### Login : Pengguna diminta untuk login dengan nama pengguna dan kata sandi.
 # 
-
